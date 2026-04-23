@@ -1,6 +1,6 @@
 # Emperor Graphics Portfolio
 
-A dark creative studio portfolio built with Next.js, Tailwind CSS, and Framer Motion.
+A design creative studio portfolio built with Next.js, Tailwind CSS, and Framer Motion.
 
 ## Run locally
 
